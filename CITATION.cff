@@ -1,4 +1,5 @@
 abstract: Solvers of optimal control problems
+title: 'OptimalControl.jl: Solvers of optimal control problems'
 authors:
 - affiliation: "Universit\xE9 C\xF4te d'Azur, CNRS, Inria, LJAD"
   family-names: Caillau
@@ -26,6 +27,5 @@ keywords:
 - Julia
 license:
 - MIT
-title: 'OptimalControl.jl: Solvers of optimal control problems'
 url: "https://control-toolbox.org/OptimalControl.jl"
 type: software
