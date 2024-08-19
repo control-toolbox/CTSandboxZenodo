@@ -24,8 +24,7 @@ keywords:
 - Optimal Control
 - Julia
 license:
-- mit
+- MIT
 title: 'OptimalControl.jl: Solvers of optimal control problems'
+url: "https://control-toolbox.org/OptimalControl.jl"
 type: software
-date-released: '2024-08-19'
-version: v0.17
