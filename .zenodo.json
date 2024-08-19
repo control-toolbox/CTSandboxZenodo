@@ -39,5 +39,6 @@
       "identifier": "https://github.com/control-toolbox/OptimalControl.jl/releases/latest",
       "relation": "isSupplementTo"
     }
-  ]
+  ],
+  "license": "MIT"
 }
