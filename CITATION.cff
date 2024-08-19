@@ -23,5 +23,8 @@ authors:
   given-names: Pierre
   orcid: "https://orcid.org/0000-0003-0571-2376"
   affiliation: "CAGE team, Inria Paris"
+- family-names: Sed
+  given-names: Sophia
+  affiliation: "Inria Sophia Antipolis Méditerranée"
 doi: 10.5281/zenodo.13336563
 url: "https://github.com/control-toolbox/OptimalControl.jl"
