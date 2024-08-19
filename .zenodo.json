@@ -3,9 +3,5 @@
   "title": "OptimalControl.jl: Solvers of optimal control problems",
   "upload_type": "software",
   "doi": "10.5281/zenodo.13336563",
-  "keywords": [
-    "Optimal Control",
-    "Julia"
-  ],
   "language": "julia"
 }
