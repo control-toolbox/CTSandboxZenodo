@@ -6,7 +6,7 @@ Test repository for Zenodo configuration
 
 If you use this in your work, please cite us:
 
-> Caillau, J., Cots, O., Gergaud, J., Martinon, P., & Sed, S. OptimalControl.jl: Solvers of optimal control problems [Computer software]. https://doi.org/10.5281/zenodo.13336563
+> Caillau, J., Cots, O., Gergaud, J., Martinon, P., & Sed, S. OptimalControl.jl: Solvers of optimal control problems [Computer software]. https://doi.org/10.5072/zenodo.101621
 
 or in `bibtex` format:
 
