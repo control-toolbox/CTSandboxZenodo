@@ -1,0 +1,44 @@
+{
+  "description": "Solvers of optimal control problems",
+  "title": "OptimalControl.jl: Solvers of optimal control problems",
+  "upload_type": "software",
+  "doi": "10.5281/zenodo.13336563",
+  "keywords": [
+    "Optimal Control",
+    "Julia"
+  ],
+   "creators": [
+    {
+      "affiliation": "Université Côte d’Azur, CNRS, Inria, LJAD",
+      "name": "Caillau, Jean-Baptiste",
+      "orcid": "0000-0002-1719-2016"
+    },
+    {
+      "affiliation": "Université Toulouse, CNRS, ENSEEIHT-IRIT",
+      "name": "Cots, Olivier",
+      "orcid": "0000-0002-4703-4369"
+    },
+    {
+      "affiliation": "Université Toulouse, CNRS, ENSEEIHT-IRIT",
+      "name": "Gergaud, Joseph"
+    },
+    {
+      "affiliation": "CAGE team, Inria Paris",
+      "name": "Martinon, Pierre",
+      "orcid": "0000-0003-0571-2376"
+    },
+    {
+      "affiliation": "Inria Sophia Antipolis Méditerranée",
+      "name": "Sed, Sophia"
+    }
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/control-toolbox/OptimalControl.jl/releases/latest",
+      "relation": "isSupplementTo"
+    }
+  ],
+  "license": "MIT"
+}
