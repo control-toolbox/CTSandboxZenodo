@@ -27,3 +27,4 @@ license:
 - mit
 title: 'OptimalControl.jl: Solvers of optimal control problems'
 type: software
+date-released: '2024'
