@@ -32,5 +32,12 @@
       "name": "Sed, Sophia"
     }
   ],
-  "access_right": "open"
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/control-toolbox/OptimalControl.jl/releases/latest",
+      "relation": "isSupplementTo"
+    }
+  ]
 }
