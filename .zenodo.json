@@ -4,8 +4,11 @@
   "upload_type": "software",
   "doi": "10.5281/zenodo.13336563",
   "keywords": [
-    "Optimal Control",
-    "Julia"
+    "optimal control",
+    "control of ODE's",
+    "optimization",
+    "direct transcription",
+    "shooting"
   ],
    "creators": [
     {
