@@ -1,4 +1,4 @@
-abstract: "The [OptimalControl.jl](https://juliahub.com/ui/Packages/General/OptimalControl) package is the root package of the [control-toolbox ecosystem](https://github.com/control-toolbox). The control-toolbox ecosystem gathers Julia packages for mathematical control and applications. It aims to provide tools to model and solve optimal control problems with ordinary differential equations by direct and indirect methods."
+abstract: "The OptimalControl.jl package is the root package of the control-toolbox ecosystem. The control-toolbox ecosystem gathers Julia packages for mathematical control and applications. It aims to provide tools to model and solve optimal control problems with ordinary differential equations by direct and indirect methods."
 title: "OptimalControl.jl: a Julia package to modelise and solve optimal control problems in the ODE's"
 authors:
 - affiliation: "Universit\xE9 C\xF4te d'Azur, CNRS, Inria, LJAD"
