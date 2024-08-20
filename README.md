@@ -4,8 +4,8 @@ Test repository for Zenodo configuration
 
 [![DOI](https://sandbox.zenodo.org/badge/844190082.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.101372)
 
-If you use this in your work, please cite us:
-
+> [!IMPORTANT]
+> If you use this in your work, please cite us:
 > Caillau, J., Cots, O., Gergaud, J., Martinon, P., & Sed, S. OptimalControl.jl: a Julia package to modelise and solve optimal control problems with ODE's [Computer software]. https://doi.org/10.5072/zenodo.101621
 
 or in `bibtex` format:
