@@ -1,4 +1,4 @@
-# SandboxZenodoOC
+# CTSandboxZenodo
 
 Test repository for Zenodo configuration
 
